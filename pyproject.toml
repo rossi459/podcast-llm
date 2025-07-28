@@ -1,0 +1,5 @@
+[project]
+name = "podcast-llm"
+version = "0.1.0"
+description = "Automatically generate engaging AI podcasts from nothing but an episode title."
+requires-python = ">=3.10"
